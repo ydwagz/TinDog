@@ -39,6 +39,7 @@ body {
 .btn2:hover{
     background-color: white;
     color: black;
+
 }
 
 .container{
@@ -57,4 +58,15 @@ body {
 
 #box-4{
     height: 600px;
+}
+
+.img-1:hover{
+    background-color:black
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+    background-color: #d9d9d9;
 }
